@@ -1,5 +1,5 @@
 # n-queens-problem
-The pure Python code solves the popular N-Queens problem
+The pure Python code solves the popular N-Queens problem using backtracking algorithm
 
 Input a number greater than 3 to see the solution for a given NxN board
 
